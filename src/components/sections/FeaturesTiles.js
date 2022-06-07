@@ -44,8 +44,8 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title: 'Build up the whole picture',
-    paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
+    title: 'We are Quantum IT and Web Solutions',
+    paragraph: 'For a long time, we have been dedicated to the development of highly aesthetic and professional websites, which will be capable to attract public to later become your future clients. '
   };
 
   return (
@@ -74,8 +74,8 @@ const FeaturesTiles = ({
                     Robust Workflow
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
-                    </p>
+                    Estrellita
+                  </p>
                 </div>
               </div>
             </div>
@@ -96,8 +96,8 @@ const FeaturesTiles = ({
                     Robust Workflow
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
-                    </p>
+                    News/Info
+                  </p>
                 </div>
               </div>
             </div>
@@ -118,8 +118,8 @@ const FeaturesTiles = ({
                     Robust Workflow
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
-                    </p>
+                    Web
+                  </p>
                 </div>
               </div>
             </div>
@@ -140,7 +140,7 @@ const FeaturesTiles = ({
                     Robust Workflow
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                    IA
                     </p>
                 </div>
               </div>
@@ -162,8 +162,8 @@ const FeaturesTiles = ({
                     Robust Workflow
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
-                    </p>
+                    Like
+                  </p>
                 </div>
               </div>
             </div>
@@ -184,8 +184,8 @@ const FeaturesTiles = ({
                     Robust Workflow
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
-                    </p>
+                    Globo de Charla
+                  </p>
                 </div>
               </div>
             </div>

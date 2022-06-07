@@ -71,7 +71,7 @@ const Hero = ({
                 <ButtonGroup>
                   <Button tag="a" color="primary" wideMobile href="mailto:quantumitweb@gmail.com?Subject=Hello, I need info">
                     Contact Us
-                    </Button>
+                  </Button>
                 </ButtonGroup>
               </div>
             </div>
